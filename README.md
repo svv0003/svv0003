@@ -77,16 +77,18 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 </div>
 
-<!-- <div align="center"> -->
-<!-- <h3>📊 GitHub Activity 📊</h3> -->
-<!-- ### 📊 GitHub Stats -->
-<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sewon-Park&show_icons=true&bg_color=ffffff&title_color=dda0dd&icon_color=dda0dd&text_color=444444" height="160"/> -->
-<!-- ### 💻 Most Used Language -->
-<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sewon-Park&layout=compact&bg_color=ffffff&title_color=dda0dd&text_color=444444" height="160"/> -->
-<!-- </div> -->
+<br>
 
-<br/>
-<br/>
+<div align="center">
+<h3>📊 GitHub Activity 📊</h3>
+<!-- ### 📊 GitHub Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=svv0003&show_icons=true&bg_color=ffffff&title_color=009DFF&icon_color=009DFF&text_color=444444" height="160"/>
+<!-- ### 💻 Most Used Language -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=svv0003&layout=compact&bg_color=ffffff&title_color=009DFF&text_color=444444" height="160"/>
+</div>
+
+<br>
+<br>
 
 <h2>💻 Projects</h2>
 <table>
