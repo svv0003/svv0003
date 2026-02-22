@@ -104,7 +104,7 @@
   <tbody>
     <tr>
       <td>머묾</td>
-      <td>검색 및 지도 기반 숙소 예약 어플리케이션</td>
+      <td>검색 및 지도 기반 숙소 조회와 예약·결제 기능을 제공하는 숙소 예약 애플리케이션</td>
       <td>팀 프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
@@ -124,7 +124,7 @@
     </tr>
     <tr>
       <td>Instagram Clone</td>
-      <td>인스타그램 클론 웹사이트</td>
+      <td>인스타그램 주요 기능(게시물·스토리·팔로우·좋아요)을 구현한 SNS 클론 웹사이트</td>
       <td>개인 프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
@@ -134,9 +134,18 @@
     </tr>
     <tr>
       <td>Smart Planner</td>
-      <td>업무 관리 및 가계부 서비스 제공 웹사이트</td>
+      <td>업무 관리와 소비 내역 기록 및 월말 정산 기능을 제공하는 웹 서비스</td>
       <td>개인 프로젝트</td>
       <td>풀스택<br>Full-stack</td>
+      <td>
+        🔗 <a href="https://github.com/svv0003/todoList">Github</a><br>
+        🔗 <a href="">Website</a>
+      </td>
+    </tr><tr>
+      <td>UNIQLO Clone</td>
+      <td>일본 SPA 브랜드 유니클로 공식 쇼핑몰 웹사이트 클론</td>
+      <td>개인 프로젝트</td>
+      <td>프론트엔드<br>Front-end</td>
       <td>
         🔗 <a href="https://github.com/svv0003/todoList">Github</a><br>
         🔗 <a href="">Website</a>
