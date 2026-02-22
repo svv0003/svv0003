@@ -2,7 +2,7 @@
 <!-- <div align="center"> -->
 <div>
   <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e5,100:b678c4&height=300&section=header&text=Sewon%20Park&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e5,100:b678c4&height=300&section=header&text=Sewon%20Park&fontSize=90&fontColor=c8c8c8" />
 
   </div>
   <br>
