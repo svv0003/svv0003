@@ -4,8 +4,17 @@
   <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e5,100:b678c4&height=300&section=header&text=Sewon%20Park&fontSize=90&fontColor=c8c8c8" />
 
-  </div>
-  <br>
+</div>
+<br>
+
+<div align=center>
+사용자 경험 개선을 중심으로 서비스 품질을 높이기 위해 끊임없이 고민하는 풀스택 개발자 <strong>박세원</strong>입니다.<br>
+사용자 관점에서 문제를 발견하고 구조적으로 분석하며, 효율적인 API 설계와 안정적인 서버 구조를 지향합니다.<br>
+지속적인 개선을 통해 완성도 높은 서비스를 구현하는 것을 목표로 합니다.
+</div>
+<br>
+<br>
+<br>
 
 <div align=center><h2>🛠️ TECH STACK 🛠️</h2></div>
 <div align=center>
